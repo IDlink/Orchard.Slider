@@ -1,0 +1,46 @@
+@using Orchard.Environment.Configuration;
+@{
+    var baseUrl = Href("~/");
+    try{
+        baseUrl = Url.Content("~/") + WorkContext.Resolve<ShellSettings>().RequestUrlPrefix.TrimEnd('/')+"/productos";
+    }catch{}
+}
+<div id="myCarousel" class="carousel slide">
+    <ol class="carousel-indicators">
+        @{
+            var first = true;
+            var j = 0;
+        }
+        @foreach (var i in Model.Items)
+        {
+            var outp = first ? "active" : "";
+            <li data-target="#myCarousel" data-slide-to="@j" class="@outp"></li>
+            first = false;
+            j++;
+        }
+    </ol>
+    <!-- Carousel items -->
+    <div class="carousel-inner">
+        @{first = true;}
+        @foreach (var i in Model.Items)
+        {
+            var outp = first ? "active" : "";
+            <div class="@outp item">
+                <div class="carousel-title">
+                    @*<a href="#">*@
+                        @Html.Raw(i.SliderPart.SliderTitle.Value)
+                    @*</a>*@
+                </div>
+                <img src="@Href(i.SliderImage.Url)">
+                <div class="carousel-description">
+                    <div class="rectangle"></div>
+                    <div class="triangle"></div>
+                    @Html.Raw(i.BodyPart.Text)
+                    <a href='@baseUrl' class="see-products"><p>Vea nuestros productos +</p></a>
+                </div>
+                
+            </div>
+            first = false;
+        }
+    </div>
+</div>

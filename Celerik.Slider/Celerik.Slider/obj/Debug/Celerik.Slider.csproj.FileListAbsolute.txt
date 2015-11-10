@@ -1,0 +1,94 @@
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\obj\Debug\Celerik.Slider.csprojResolveAssemblyReference.cache
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Celerik.Slider.dll.config
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Celerik.Slider.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Celerik.Slider.pdb
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Orchard.Core.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Orchard.Framework.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.Mvc.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.Http.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Net.Http.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.WebPages.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\NHibernate.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.WebPages.Razor.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.Razor.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\log4net.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Castle.DynamicProxy2.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\FluentNHibernate.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\NHibernate.Linq.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Newtonsoft.Json.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.Http.WebHost.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Autofac.Configuration.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\NHibernate.SqlAzure.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Microsoft.Web.Infrastructure.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Net.Http.Formatting.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.WebPages.Deployment.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Iesi.Collections.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Orchard.Framework.pdb
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Orchard.Core.pdb
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.Mvc.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.Http.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Net.Http.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.WebPages.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\NHibernate.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.WebPages.Razor.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.Razor.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\log4net.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\FluentNHibernate.pdb
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\FluentNHibernate.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\NHibernate.Linq.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.Http.WebHost.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\NHibernate.SqlAzure.pdb
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\NHibernate.SqlAzure.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Microsoft.Web.Infrastructure.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Net.Http.Formatting.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\System.Web.WebPages.Deployment.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\bin\Iesi.Collections.xml
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\obj\Debug\Celerik.Slider.dll
+C:\Datos Giovany\Repository\Conconcreto\ConconcretoV3\Orchard-1.7.3\src\Orchard.Web\Modules\Celerik.Slider\obj\Debug\Celerik.Slider.pdb
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Celerik.Slider.dll.config
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Celerik.Slider.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Celerik.Slider.pdb
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Orchard.Core.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Orchard.Framework.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.Mvc.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.WebPages.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.Http.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Net.Http.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\NHibernate.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.WebPages.Razor.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.Razor.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\log4net.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Castle.DynamicProxy2.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\FluentNHibernate.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\NHibernate.Linq.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Newtonsoft.Json.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.Http.WebHost.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Autofac.Configuration.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\NHibernate.SqlAzure.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.WebPages.Deployment.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Net.Http.Formatting.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Iesi.Collections.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Orchard.Core.pdb
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Orchard.Framework.pdb
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.Mvc.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.WebPages.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.Http.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Net.Http.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\NHibernate.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.WebPages.Razor.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.Razor.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\log4net.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\FluentNHibernate.pdb
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\FluentNHibernate.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\NHibernate.Linq.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.Http.WebHost.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\NHibernate.SqlAzure.pdb
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\NHibernate.SqlAzure.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Web.WebPages.Deployment.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\System.Net.Http.Formatting.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\bin\Iesi.Collections.xml
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\obj\Debug\Celerik.Slider.csprojResolveAssemblyReference.cache
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\obj\Debug\Celerik.Slider.dll
+C:\Users\galza_000\Documents\Visual Studio 2015\Projects\Celerik.Slider\Celerik.Slider\obj\Debug\Celerik.Slider.pdb
